@@ -1,4 +1,0 @@
-/home/ksmith/repos/libbrine/CMakeFiles/brine_static.dir
-/home/ksmith/repos/libbrine/CMakeFiles/core.dir
-/home/ksmith/repos/libbrine/CMakeFiles/keypair_test.dir
-/home/ksmith/repos/libbrine/CMakeFiles/serialize_test.dir
